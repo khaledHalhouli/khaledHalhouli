@@ -8,7 +8,7 @@
 
 Connect with me:-
 <br>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://www.linkedin.com/in/khaled-halhouli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -34,6 +34,10 @@ Libraries & Framwork
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 
+GitHub Stats:-
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=khaledHalhouli" />
 
 Most Used Language
 <br>

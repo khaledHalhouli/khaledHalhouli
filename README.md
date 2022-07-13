@@ -15,7 +15,6 @@ Connect with me:-
 
 <br>
 <br>
-<br>
 
 Languages & Toold
 <br>
@@ -25,7 +24,6 @@ Languages & Toold
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-<br>
 <br>
 <br>
 
@@ -40,14 +38,12 @@ Libraries & Framwork
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <br>
 <br>
-<br>
 
 GitHub Stats:-
 <br>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=khaledHalhouli" />
-<br>
 <br>
 <br>
 
